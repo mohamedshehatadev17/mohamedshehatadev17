@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate back end developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png">
 
 <p align="left"> <img src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png" /> </p>
 
