@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Clinica**
+- 🔭 I’m currently working on **EDSMART AND BasketSurvey**
 
-- 🌱 I’m currently learning **Back end development**
+- 🌱 I’m currently learning **Back end Developer**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
