@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **EDSMART AND BasketSurvey**
 
-- 🌱 I’m currently learning **Back end Developer**
+- 🌱 I’m  **Back end Developer**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
